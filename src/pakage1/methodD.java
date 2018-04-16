@@ -17,8 +17,7 @@ public class methodD {
 		methodD obj=new methodD();
 		obj.submethod();
 		obj.memberVar = 11;
-		obj.submethod();
-		obj.memberVar = 22;
+		
 		obj.submethod2();
 		obj.submethod();
 
